@@ -2,6 +2,8 @@
 
 A modern, interactive chatbot template built with Next.js, AI SDK, Aceternity UI, and Neon's serverless Postgres.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?demo-description=A%20modern%2C%20interactive%20chatbot%20template%20built%20with%20Next.js%2C%20AI%20SDK%2C%20Aceternity%20UI%2C%20and%20Neon%27s%20serverless%20Postgres.&demo-image=%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F2cjDyEMUVtgdWBp9dXRXfv%2F548ea6a3ba0dc1b24677de482c28f9c3%2Fbanner.png&demo-title=Chatbot%20by%20Aceternity&demo-url=https%3A%2F%2Fneon-aceternity-chatbot.vercel.app%2F&env=OPENAI_API_KEY&from=templates&project-name=Chatbot%20by%20Aceternity&repository-name=chatbot-by-aceternity&repository-url=https%3A%2F%2Fgithub.com%2Fneondatabase%2Fneon-chatbot&skippable-integrations=1&stores=%255B%257B%2522type%2522%253A%2522integration%2522%252C%2522protocol%2522%253A%2522storage%2522%252C%2522productSlug%2522%253A%2522neon%2522%252C%2522integrationSlug%2522%253A%2522neon%2522%257D%255D)
+
 ![Banner](https://neon-chatbot.vercel.app/banner.png)
 
 ## Features
